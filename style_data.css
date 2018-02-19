@@ -13,6 +13,7 @@
 	
 }
 #home_back{
+	display:block;
 	background-image: url('res/back_cov2.jpg'); 
 	height:800px;
 	width:100%;
