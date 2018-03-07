@@ -43,6 +43,9 @@
 	background-size:cover;
 	background-repeat:no-repeat;
 }
+#blink:hover{
+	font-size:25px;
+}
 #contact_back{
 	background-image: url('res/back_cov2.jpg'); 
 	height:800px;
