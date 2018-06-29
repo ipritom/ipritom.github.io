@@ -1,2 +1,2 @@
 # ipritom.github.io
-This is a github.io page
+This is my personal github.io page
