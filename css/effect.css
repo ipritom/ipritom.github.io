@@ -1,0 +1,81 @@
+.zoomtext{
+}
+.zoomtext:hover{
+transform: scale(1.04);
+transition: all .5s ease-in-out;
+}
+.glow1{
+}
+.glow2{
+}
+.glow1:hover{
+    transform: scale(1.02);
+    box-shadow: 0 0 15px #10fffc;
+}
+.glow2:hover{
+    transform: scale(1.02);
+    box-shadow: 0 0 15px #1037ff;
+}
+
+blockquote{
+    position: relative; 
+}
+
+blockquote h3:before {
+    position: absolute; 
+    top: 0;
+    left: 0; 
+}
+
+blockquote h3:after{
+    bottom: 0; 
+    right: 0; 
+}
+
+/*FONTS*/
+/*Bangla Font-family */
+
+@font-face{
+    font-family:bangla;
+    src: url("font/Bangla-Medium.ttf") format("truetype");
+    
+}
+@font-face{
+    font-family:galada;
+    src: url("font/Galada-Regular.ttf") format("truetype");
+    
+}
+@font-face{
+    font-family:ekush;
+    src: url("font/Ekushey_Puja-Normal.ttf") format("truetype");
+    
+}
+@font-face{
+    font-family:balooda;
+    src: url("font/Baloo_Da-Regular.ttf") format("truetype");
+}
+
+/*English Font-Family */
+@font-face{
+    font-family:gloss;
+    src: url("font/Gloss_And_Bloom.ttf") format("truetype");
+}
+@font-face{
+    font-family:hand1;
+    src: url("font/IndieFlower.ttf") format("truetype");
+}
+@font-face{
+    font-family:hand2;
+    src: url("font/PermanentMarker-Regular.ttf") format("truetype");
+}
+@font-face{
+    font-family:hand3;
+    src: url("font/SwankyandMooMoo.ttf") format("truetype");
+}
+@font-face{
+    font-family:hand4;
+    src: url("font/ShadowsIntoLightTwo-Regular.ttf") format("truetype");
+}
+
+
+
